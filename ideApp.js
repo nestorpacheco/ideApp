@@ -1,6 +1,6 @@
 
 function makeIdea(){
-    var genre = ["house", "deep house", "techno", "tribal", "digital cumbia"];
+    var genre = ["house", "deep house", "techno", "tribal", "digital cumbia", "drum & Bass"];
 
     var key = ["Am", "A", "Cm", "C", "Gm", "G",];
 
